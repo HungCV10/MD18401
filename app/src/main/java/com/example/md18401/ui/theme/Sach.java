@@ -1,2 +1,5 @@
-package com.example.md18401.ui.theme;public class Sach {
+package com.example.md18401.ui.theme;
+
+public class Sach {
+    private String tenSach;
 }
